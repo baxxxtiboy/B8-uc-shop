@@ -1,0 +1,17 @@
+{
+  "name": "pubg-uc-bot",
+  "version": "1.0.0",
+  "description": "PUBG Mobile UC sotib olish va UC ishlash Telegram boti",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
